@@ -1,6 +1,5 @@
-### Hi there 👋
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=#acc8ac&height=200&section=header&text=Evelyn%20Github!&fontSize=50" />	
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=%23acc8ac&height=200&section=header&text=Evelyn%20Github!&fontSize=50" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>

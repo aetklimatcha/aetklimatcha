@@ -1,9 +1,8 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=%23acc8ac&height=200&section=header&text=Evelyn%20Github🎐&fontSize=50" />	
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Evelyn%20Github🎐&fontSize=50" />    
 </div>
+
 <div align=center>
-	<h3> Githubs </h3>
-	![Evelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=aetklimatcha&show_icons=true&theme=vue)
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
@@ -31,3 +30,16 @@
 	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
+<br>
+<div align = center>
+<h3>🚀Github stats🚀</h3>
+	
+![Evelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=aetklimatcha&show_icons=true&theme=vue)
+</div>
+<br>
+<div align = center>
+<h3>📊Most used Language📊</h3>
+	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aetklimatcha&theme=vues)
+</div>
+

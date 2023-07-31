@@ -2,6 +2,8 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=%23acc8ac&height=200&section=header&text=Evelyn%20Github🎐&fontSize=50" />	
 </div>
 <div align=center>
+	<h3> Githubs </h3>
+	![Evelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=aetklimatcha&show_icons=true&theme=vue)
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>

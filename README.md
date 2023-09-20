@@ -51,9 +51,4 @@
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
  </p>
- 
-# Github stats🚀
-![Evelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=aetklimatcha&show_icons=true&theme=vue)
 
-# Most used Language📊
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aetklimatcha&theme=vues)

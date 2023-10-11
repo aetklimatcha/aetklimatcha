@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 
-# Tech Stack 
+# Tech Stack 📚
 ### Languages
 <p>
 	<img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"/>

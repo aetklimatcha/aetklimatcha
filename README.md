@@ -41,7 +41,7 @@
   	</p>
    
 # 🛠️ Tools 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
@@ -50,6 +50,6 @@
  </br></br>
  
 # 🚀 Github stats
-<div style="display: flex, height:180px">
+<div style="display: flex, height:180px" align="center">
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=aetklimatcha&show_icons=true&theme=vue&hide_border=true"/>
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aetklimatcha&theme=vue&layout=compact&hide_border=true"/>

@@ -1,9 +1,8 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=c1dfc4&height=200&section=header&text=Evelyn%20Github🎐&fontSize=50" />    
 </div>
-<div align="center">
 
-# Tech Stack 📚
+# 📚 Tech Stack
 ### Languages
 <p>
 	<img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"/>
@@ -31,13 +30,6 @@
   	<img src="https://img.shields.io/badge/MariaDB-003545?style=round-square&logo=MariaDB&logoColor=white"/>
 </p>
    
-### Elastic Search 
-<p>
-   	<img src="https://img.shields.io/badge/Elasticsearch-005571?style=round-square&logo=elasticsearch&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/Kibana-005571?style=round-square&logo=Kibana&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/Logstash-005571?style=round-square&logo=Logstash&logoColor=white"/>
-   </p>
-   
 ### DevOps 
 <p>
  	<img src="https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=amazon-aws&logoColor=white"/>
@@ -51,8 +43,9 @@
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
  </p>
-
-# Github stats🚀
+ </br></br>
+ 
+# 🚀 Github stats
 <div style="display: flex, height:180px">
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=aetklimatcha&show_icons=true&theme=vue&hide_border=true"/>
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aetklimatcha&theme=vue&layout=compact&hide_border=true"/>

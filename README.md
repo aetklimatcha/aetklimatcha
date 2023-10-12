@@ -47,5 +47,5 @@
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c1dfc4&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c1dfc4&height=75&section=footer"/>
 </div>

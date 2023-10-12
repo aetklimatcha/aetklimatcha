@@ -1,10 +1,12 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=c1dfc4&height=200&section=header&text=Evelyn%20Github🎐&fontSize=50" />    
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=c1dfc4&height=175&section=header&text=Hi,%20I'm%20Evelyn🎐&fontSize=50" />
 </div>
 
 # 📚 Tech Stack
-- Language
 
+<img align="right" height="450px" width="400px" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
+
+- Language
 	<p>
 	<img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />

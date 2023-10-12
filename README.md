@@ -53,7 +53,6 @@
  </p>
 
 # Github stats🚀
-![Evelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=aetklimatcha&show_icons=true&theme=vue)
-
-# Most used Language📊
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aetklimatcha&theme=vues)
+<div style="display: flex, height:180px">
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=aetklimatcha&show_icons=true&theme=vue&hide_border=true"/>
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aetklimatcha&theme=vue&layout=compact&hide_border=true"/>

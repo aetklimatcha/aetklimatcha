@@ -38,8 +38,7 @@
  	<img src="https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=amazon-aws&logoColor=white"/>
   	<img src="https://img.shields.io/badge/GCP-4285F4?style=round-square&logo=GoogleCloud&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white"/>
-  	</p>
-   
+  	</p>   
 # 🛠️ Tools 
 <p align="center">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
@@ -47,9 +46,6 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 </p>
 
- </br></br>
- 
-# 🚀 Github stats
-<div style="display: flex, height:180px" align="center">
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=aetklimatcha&show_icons=true&theme=vue&hide_border=true"/>
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aetklimatcha&theme=vue&layout=compact&hide_border=true"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c1dfc4&height=150&section=footer"/>
+</div>

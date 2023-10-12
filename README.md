@@ -4,7 +4,7 @@
 
 # 📚 Tech Stack
 
-<img align="right" height="450px" width="400px" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
+<img align="right" height="400px" width="350px" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
 - Language
 	<p>

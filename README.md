@@ -26,6 +26,7 @@
 - Backend
   	<p>
    	<img src="https://img.shields.io/badge/Django-092E20?style=round-square&logo=Django&logoColor=white"/>
+	<img src="https://img.shields.io/badge/springboot-6DB33F?style=round-square&logo=springboot&logoColor=white">
     	</p>
 - DBMS
   	<p>

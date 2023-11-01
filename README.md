@@ -40,12 +40,6 @@
   	<img src="https://img.shields.io/badge/GCP-4285F4?style=round-square&logo=GoogleCloud&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white"/>
   	</p>   
-# 🛠️ Tools 
-<p align="center">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-</p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BCCDB9&height=100&section=footer"/>

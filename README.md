@@ -3,7 +3,7 @@
 </div>
 
 # 👋 Hello
-I am ..
+I am 
 # 📚 Tech Stack
 
 <img align="right" height="400px" width="350px" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
